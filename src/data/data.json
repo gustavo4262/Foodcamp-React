@@ -1,0 +1,85 @@
+[ {
+    "title": "Primeiro, seu prato",
+    "id": 1,
+    "itens": 
+    [{
+        "id": 1,
+        "img":
+        "/home/cyclopz/RespondeAi/projetos/03_Foodcamp/data/images/frango_yin_yang.png",
+        "title": "Frango Yin Yang",
+        "description": "Um pouco de batata, um pouco de salada",
+        "price": "R$ 18,90"
+    },
+    {
+        "id": 2,
+        "img":
+        "/home/cyclopz/RespondeAi/projetos/03_Foodcamp/data/images/frango_yin_yang.png",
+        "title": "Frango Yin Yang",
+        "description": "Um pouco de batata, um pouco de salada",
+        "price": "R$ 14,90"
+    },
+    {
+        "id": 3,
+        "img":
+        "/home/cyclopz/RespondeAi/projetos/03_Foodcamp/data/images/frango_yin_yang.png",
+        "title": "Frango Yin Yang",
+        "description": "Um pouco de batata, um pouco de salada",
+        "price": "R$ 20,90"
+    }
+]
+},
+{
+    "title": "Agora, sua bebida",
+    "id":2,
+    "itens": [
+    {
+        "id": 1,
+        "img": "",
+        "title": "Coquinha gelada",
+        "description": "Lata 350ml",
+        "price": "R$ 4.90"
+    },
+    {
+        "id": 2,
+        "img": "",
+        "title": "Coquinha gelada",
+        "description": "Lata 350ml",
+        "price": "R$ 7.90"
+    },
+    {
+        "id": 3,
+        "img": "",
+        "title": "Coquinha gelada",
+        "description": "Lata 350ml",
+        "price": "R$ 8.90"
+    }
+    ]
+},
+{
+    "title": "Por fim, sua sobremesa",
+    "id":3,
+    "itens": [
+    {
+        "id": 1,
+        "img": "",
+        "title": "Pudim normal",
+        "description": "Apenas pudim",
+        "price": "R$ 7.90"
+    },
+    {
+        "id": 2,
+        "img": "",
+        "title": "Pudim normal",
+        "description": "Apenas pudim",
+        "price": "R$ 10.90"
+    },
+    {
+        "id": 3,
+        "img": "",
+        "title": "Pudim normal",
+        "description": "Apenas pudim",
+        "price": "R$ 8.90"
+    }
+    ]
+}
+]
