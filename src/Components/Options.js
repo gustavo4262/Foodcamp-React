@@ -23,7 +23,6 @@ export default function Options(props) {
   }
 
   function finish() {
-    console.log(checkselection(1), checkselection(2), checkselection(3));
     let element = document.querySelector(".order button");
     if (checkselection(1) && checkselection(2) && checkselection(3)) {
       element.innerHTML = "Fechar pedido";
@@ -39,7 +38,6 @@ export default function Options(props) {
     let newCounters = [...counters];
     newCounters[index] += 1;
     setCounters(newCounters);
-    console.log("do");
   }
 
   function subCounter() {
@@ -49,7 +47,6 @@ export default function Options(props) {
     setCounters(newCounters);
 
     if (newCounters[index] === 0) {
-      console.log("ok");
       let container = `.container:nth-child(${props.container}) `;
       let item = `.item:nth-child(${props.id}) `;
       let element = document.querySelector(container + item);
@@ -86,7 +83,7 @@ export default function Options(props) {
       <h3>{props.price}</h3>
       <div className="counter hidden">
         <button onClick={subCounter}>-</button>
-        {counters[(props.container - 1) * 3 + props.id - 1]}
+        <p>{counters[(props.container - 1) * 3 + props.id - 1]}</p>
         <button onClick={addCounter}>+</button>
       </div>
     </li>

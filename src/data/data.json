@@ -12,14 +12,14 @@
     {
         "id": 2,
         "img":"frango",
-        "title": "Frango Yin Yang",
+        "title": "Frango A Milanesa",
         "description": "Um pouco de batata, um pouco de salada",
         "price": "R$ 14,90"
     },
     {
         "id": 3,
         "img":"frango",
-        "title": "Frango Yin Yang",
+        "title": "Frango Do Kung Fu",
         "description": "Um pouco de batata, um pouco de salada",
         "price": "R$ 20,90"
     }
@@ -39,14 +39,14 @@
     {
         "id": 2,
         "img": "coca",
-        "title": "Coquinha gelada",
+        "title": "Coquinha quente",
         "description": "Lata 350ml",
         "price": "R$ 7.90"
     },
     {
         "id": 3,
         "img": "coca",
-        "title": "Coquinha gelada",
+        "title": "Coquinha boa",
         "description": "Lata 350ml",
         "price": "R$ 8.90"
     }
@@ -66,16 +66,16 @@
     {
         "id": 2,
         "img": "pudim",
-        "title": "Pudim normal",
+        "title": "Pudim diferente",
         "description": "Apenas pudim",
         "price": "R$ 10.90"
     },
     {
         "id": 3,
         "img": "pudim",
-        "title": "Pudim normal",
+        "title": "Pudim podre",
         "description": "Apenas pudim",
-        "price": "R$ 8.90"
+        "price": "R$ 50.90"
     }
     ]
 }
