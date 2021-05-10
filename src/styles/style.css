@@ -116,11 +116,24 @@ body {
   background-color: #32b72f !important;
   font-weight: 700 !important;
 }
-ion-icon {
+.counter {
   position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
   right: 7px;
   bottom: 5px;
-  font-size: 20px;
+  width: 50px;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+}
+.counter button {
+  border: none;
+  background-color: inherit;
+  font-size: 25px;
+  color: #cf2b2b;
+}
+.counter button:last-child {
   color: #32b72f;
 }
 .confirm {
@@ -171,4 +184,7 @@ ion-icon {
 .confirm .cancel {
   color: #ffffff;
   background-color: #50d074;
+}
+.hidden {
+  display: none;
 }

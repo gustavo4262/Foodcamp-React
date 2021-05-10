@@ -1,8 +1,8 @@
 import Options from "../Components/Options";
 
 export default function Container(props) {
-  console.log(props);
   let itens = props.children;
+
   return (
     <div className="container">
       <h1>{props.title}</h1>

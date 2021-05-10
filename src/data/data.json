@@ -4,24 +4,21 @@
     "itens": 
     [{
         "id": 1,
-        "img":
-        "/home/cyclopz/RespondeAi/projetos/03_Foodcamp/data/images/frango_yin_yang.png",
+        "img":"frango",
         "title": "Frango Yin Yang",
         "description": "Um pouco de batata, um pouco de salada",
         "price": "R$ 18,90"
     },
     {
         "id": 2,
-        "img":
-        "/home/cyclopz/RespondeAi/projetos/03_Foodcamp/data/images/frango_yin_yang.png",
+        "img":"frango",
         "title": "Frango Yin Yang",
         "description": "Um pouco de batata, um pouco de salada",
         "price": "R$ 14,90"
     },
     {
         "id": 3,
-        "img":
-        "/home/cyclopz/RespondeAi/projetos/03_Foodcamp/data/images/frango_yin_yang.png",
+        "img":"frango",
         "title": "Frango Yin Yang",
         "description": "Um pouco de batata, um pouco de salada",
         "price": "R$ 20,90"
@@ -34,21 +31,21 @@
     "itens": [
     {
         "id": 1,
-        "img": "",
+        "img": "coca",
         "title": "Coquinha gelada",
         "description": "Lata 350ml",
         "price": "R$ 4.90"
     },
     {
         "id": 2,
-        "img": "",
+        "img": "coca",
         "title": "Coquinha gelada",
         "description": "Lata 350ml",
         "price": "R$ 7.90"
     },
     {
         "id": 3,
-        "img": "",
+        "img": "coca",
         "title": "Coquinha gelada",
         "description": "Lata 350ml",
         "price": "R$ 8.90"
@@ -61,21 +58,21 @@
     "itens": [
     {
         "id": 1,
-        "img": "",
+        "img": "pudim",
         "title": "Pudim normal",
         "description": "Apenas pudim",
         "price": "R$ 7.90"
     },
     {
         "id": 2,
-        "img": "",
+        "img": "pudim",
         "title": "Pudim normal",
         "description": "Apenas pudim",
         "price": "R$ 10.90"
     },
     {
         "id": 3,
-        "img": "",
+        "img": "pudim",
         "title": "Pudim normal",
         "description": "Apenas pudim",
         "price": "R$ 8.90"
